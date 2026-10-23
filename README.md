@@ -19,9 +19,9 @@ Pada Program Sistem Manajemen Perpustakaan Kampus ini merupakan aplikasi berbasi
 ---
 
 ## 3. Anggota Kelompok 10
-1. Nazmi Ramadani - 2509116031 (Kelas C)
-2. Atha Rina Sarwahita - 2509116047 (Kelas C)
-3. Naisyla Auliya Rahmi Putri - 2509116078 (Kelas C)
+1. Nazmi Ramadani - 2509116031 (Kelas A)
+2. Atha Rina Sarwahita - 2509116047 (Kelas B)
+3. Naisyla Auliya Rahmi Putri - 2509116078 (Kelas B)
 4. Qonitah Khansa’ Ayu Madani A. - 2509116113 (Kelas C)
 
 ---
