@@ -5,7 +5,7 @@
 ---
 
 ## 1. Deskripsi Singkat Program
-Program Sistem Manajemen Perpustakaan Kampus ini merupakan aplikasi berbasis Java CLI yang dirancang untuk mengelola koleksi buku, lokasi penyimpanan spasial, rekap statistik peminjaman harian, antrean pelayanan mahasiswa, serta pencatatan riwayat transaksi secara terintegrasi. Program ini diimplementasikan dengan memisahkan modul ke dalam struktur package (Main dan Business Logic) untuk menerapkan prinsip Pemrograman Berorientasi Objek (PBO) serta mengintegrasikan 6 struktur data utama: Array 1D, Array 2D, Array 3D, ArrayList, Stack (LIFO), dan Queue (FIFO).
+Pada Program Sistem Manajemen Perpustakaan Kampus ini merupakan aplikasi berbasis Java yang dirancang untuk mengelola koleksi buku, lokasi penyimpanan spasial, rekap statistik peminjaman harian, antrean pelayanan mahasiswa, serta pencatatan riwayat transaksi secara terintegrasi. Program ini diimplementasikan dengan memisahkan modul ke dalam struktur package (Main dan Business Logic) untuk menerapkan prinsip Pemrograman Berorientasi Objek (PBO) serta mengintegrasikan 6 struktur data utama: Array 1D, Array 2D, Array 3D, ArrayList, Stack (LIFO), dan Queue (FIFO).
 
 ---
 
