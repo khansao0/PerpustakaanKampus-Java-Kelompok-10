@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package sistemperpustakaan;
 
-/**
- *
- * @author qonitah
- */
 public class Buku {
     private String judul;
 
