@@ -73,13 +73,13 @@ Program wajib mengimplementasikan enam konsep struktur data yang saling terinteg
 Alur jalannya sistem perpustakaan kampus adalah sebagai berikut:
 1. Program pertama kali dijalankan dari kelas SistemPerpustakaan.java pada package main yang menginisialisasi objek LayananPerpustakaan, LokasiPenyimpanan, dan Scanner.
 2. Program menampilkan antarmuka menu interaktif CLI dengan 7 pilihan menu utama:
-   - 1. Kelola Kategori & Stat Peminjaman (Array 1D & 2D): Menampilkan daftar kategori buku beserta tabel matriks rekapitulasi jumlah peminjaman mingguan harian.
-   - 2. Cek Lokasi Rak Buku (Array 3D): Pengguna memasukkan nomor lantai, nomor rak, dan slot posisi untuk mencari ketersediaan buku pada koordinat ruang 3D.
-   - 3. Kelola Daftar Buku Dinamis (ArrayList): Menyediakan sub-menu untuk menampilkan seluruh daftar buku, menambahkan buku baru ke dalam koleksi, atau menghapus buku berdasarkan nomor indeks.
-   - 4. Kelola Riwayat Transaksi (Stack - LIFO): Menyediakan sub-menu untuk melihat log aktivitas terakhir (peek) atau membatalkan transaksi paling atas (pop).
-   - 5. Kelola Antrean Peminjam (Queue - FIFO): Menyediakan sub-menu untuk mendaftarkan nama mahasiswa ke antrean (enqueue), melayani peminjaman mahasiswa urutan terdepan (dequeue), atau melihat daftar antrean.
-   - 6. Tambah Data Peminjaman Harian (Array 2D): Pengguna memilih kategori buku, hari, dan menginputkan jumlah peminjaman baru untuk memperbarui data matriks peminjaman.
-   - 7. Keluar: Menghentikan perulangan menu dan menutup aplikasi dengan pesan terima kasih.
+   - Kelola Kategori & Stat Peminjaman (Array 1D & 2D): Menampilkan daftar kategori buku beserta tabel matriks rekapitulasi jumlah peminjaman mingguan harian.
+   - Cek Lokasi Rak Buku (Array 3D): Pengguna memasukkan nomor lantai, nomor rak, dan slot posisi untuk mencari ketersediaan buku pada koordinat ruang 3D.
+   - Kelola Daftar Buku Dinamis (ArrayList): Menyediakan sub-menu untuk menampilkan seluruh daftar buku, menambahkan buku baru ke dalam koleksi, atau menghapus buku berdasarkan nomor indeks.
+   - Kelola Riwayat Transaksi (Stack - LIFO): Menyediakan sub-menu untuk melihat log aktivitas terakhir (peek) atau membatalkan transaksi paling atas (pop).
+   - Kelola Antrean Peminjam (Queue - FIFO): Menyediakan sub-menu untuk mendaftarkan nama mahasiswa ke antrean (enqueue), melayani peminjaman mahasiswa urutan terdepan (dequeue), atau melihat daftar antrean.
+   - Tambah Data Peminjaman Harian (Array 2D): Pengguna memilih kategori buku, hari, dan menginputkan jumlah peminjaman baru untuk memperbarui data matriks peminjaman.
+   - Keluar: Menghentikan perulangan menu dan menutup aplikasi dengan pesan terima kasih.
 
 ---
 
